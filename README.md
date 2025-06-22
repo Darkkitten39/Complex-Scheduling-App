@@ -39,7 +39,7 @@ A cross-platform, theme-aware scheduling and client management application with 
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/Darkkitten39/complex-scheduling-app
+    git clone https://github.com/Darkkitten39/complex-scheduling-app.git
     cd complex-scheduling-app
     ```
 
